@@ -1,0 +1,8 @@
+.cours{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-between;
+  gap: 50px;
+  
+}
